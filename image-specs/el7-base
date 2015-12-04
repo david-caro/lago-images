@@ -1,0 +1,8 @@
+#base=centos-7.1
+#name=lago CentOS 7
+#osinfo=centos7.1
+#distro=el7
+#arch=x86_64
+#expand=/dev/sda3
+#root-partition=/dev/sda1
+install qemu-guest-agent

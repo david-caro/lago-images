@@ -1,0 +1,8 @@
+#base=fedora-23
+#name=lago Fedora® 23
+#osinfo=fedora23
+#distro=fc23
+#arch=x86_64
+#expand=/dev/sda3
+#root-partition=/dev/sda1
+install qemu-guest-agent

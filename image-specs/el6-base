@@ -1,0 +1,8 @@
+#base=centos-6
+#name=lago CentOS 6
+#osinfo=centos6.6
+#distro=el6
+#arch=x86_64
+#expand=/dev/sda3
+#root-partition=/dev/sda1
+install qemu-guest-agent

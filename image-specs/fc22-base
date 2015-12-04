@@ -1,0 +1,8 @@
+#base=fedora-22
+#name=lago Fedora® 22
+#osinfo=fedora22
+#distro=fc22
+#arch=x86_64
+#expand=/dev/sda3
+#root-partition=/dev/sda1
+install qemu-guest-agent
